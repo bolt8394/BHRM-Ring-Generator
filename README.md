@@ -45,4 +45,4 @@ python ring_builder.py
    raise it if the game console can't keep up.
 
 ## Acknowledgments
-Portions of this code were developed with assistance from Claude (Anthropic).
+Portions of this code (GUI, Debugging, Cleanup and organisation) were developed with assistance from Claude (Anthropic).
