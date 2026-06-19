@@ -43,3 +43,6 @@ python ring_builder.py
    into the right window). Press **F2** at any point to kill the code.
 4. The "Command Delay" field controls how long it waits between lines -
    raise it if the game console can't keep up.
+
+## Acknowledgments
+Portions of this code were developed with assistance from Claude (Anthropic).
